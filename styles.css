@@ -1,1 +1,14 @@
-/*  your css code here. If applicable */
+.hero{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	align-items:center;
+}
+img{
+	width:200px;
+	height:300px;
+	object-fit:cover;
+}
+a{
+	color:red;
+}
